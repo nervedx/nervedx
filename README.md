@@ -11,6 +11,15 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Informatics+Student+%26+Developer;Web+Development+%7C+Database;Always+Learning+New+Things" />
 
+🚀 Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,php,python,nodejs,mysql,git,github,vscode,figma" /> </p>
+
+📊 GitHub Stats
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=rsaezaa&show_icons=true&theme=chartreuse-dark&hide_border=true"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsaezaa&layout=compact&theme=chartreuse-dark&hide_border=true"/> </p>
+
+🔥 Contribution Streak
+<p align="center"> <img src="https://streak-stats.demolab.com?user=rsaezaa&theme=chartreuse-dark&hide_border=true"/> </p>
+
 </div>
 
 ---
@@ -43,15 +52,6 @@ LANG      : [HTML] [CSS] [JavaScript] [PHP] [Python] [Node.js]
 DATABASE  : [MySQL]
 TOOLS     : [VS Code] [Git] [GitHub] [Figma] [Postman]
 OS        : [Windows 11]
-
-🚀 Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,php,python,nodejs,mysql,git,github,vscode,figma" /> </p>
-
-📊 GitHub Stats
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=rsaezaa&show_icons=true&theme=chartreuse-dark&hide_border=true"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsaezaa&layout=compact&theme=chartreuse-dark&hide_border=true"/> </p>
-
-🔥 Contribution Streak
-<p align="center"> <img src="https://streak-stats.demolab.com?user=rsaezaa&theme=chartreuse-dark&hide_border=true"/> </p>
 
 ┌──(saeza@github)-[~/contact]
 └─$ echo $CONTACT
