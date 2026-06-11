@@ -1,12 +1,4 @@
-<div align="center">
 
-<pre style="color:#39FF14;">
-███████╗ █████╗ ███████╗███████╗ █████╗  
-██╔════╝██╔══██╗██╔════╝╚══███╔╝██╔══██╗  
-███████╗███████║█████╗    ███╔╝ ███████║  
-╚════██║██╔══██║██╔══╝   ███╔╝  ██╔══██║  
-███████║██║  ██║███████╗███████╗██║  ██║  
-╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝  
 </pre>
 
 </div>
@@ -14,17 +6,17 @@
 ---
 
 ```bash
-┌──(saeza@github)-[~]
+┌──(kisekaaa@github)-[~]
 └─$ whoami
 
-Name       : Saeza
+Name       : sekaa
 Role       : Informatics Student & Developer
 Status     : Always Learning
 Location   : Indonesia
 Focus      : Web Development, UI/UI Design
 Motto      : Learn • Build • Improve • Repeat
 
-┌──(saeza@github)-[~/skills]
+┌──(kisekaaa@github)-[~/skills]
 └─$ cat skills.conf
 
 Web Development     [████████████████    ] 80%
@@ -37,7 +29,7 @@ Problem Solving     [███████████████     ] 75%
 
 UI/UX Design        [█████████████████   ] 85%
 
-┌──(saeza@github)-[~/stack]
+┌──(kisekaaa@github)-[~/stack]
 └─$ ls tools/ && uname -a
 
 LANG      : [HTML] [CSS] [JavaScript] [PHP] [Python] [Node.js]
