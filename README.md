@@ -39,7 +39,7 @@ OS        : [Windows 10]
 ┌──(saeza@github)-[~/contact]
 └─$ echo $CONTACT
 
-GitHub     : github.com/rsaezaa
-Instagram  : instagram.com/rsaezaa
-youtube    : youtube.com/@rsaezaa
+GitHub     : github.com/kisekaaa
+Instagram  : instagram.com/kisekaaa
+youtube    : youtube.com/@kisekaaa
 Location   : Indonesia
